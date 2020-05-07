@@ -194,3 +194,14 @@ input:focus {
   background-color: white;
   width: 150px;
 }
+
+.about_body {
+  font-size: 30px;
+  padding: 40px 40px 40px 40px;
+  text-align: center;
+}
+.body_intro {
+  color: rgb(56, 54, 54);
+  width: 920px;
+  margin-bottom: 30px;
+}
